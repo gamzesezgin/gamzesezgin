@@ -1,16 +1,11 @@
 <h1 align="left" style="font-size: 16px;">Hi there 👋, I'm Gamze Sezgin</h1>
 
-<div align="center">
-    <a href= https://github.com/gamzesezgin><img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/></a>
-  </div>
-
-<h3 align="left">👩‍💻  About Me</h3>
-###
+<h3 align="left">About Me</h3>
 <p align="left">
 <ul>
 <li>🔭 I’m currently working on Web Development</li>
 <li>🌱 I’m currently learning HTML, Css, Bootstrap</li>
-<li>📫 How to reach me: gamzesezgin001@gmail.com</li>
+<a href="mailto:gamzesezgin001@gmail.com">gamzesezgin001@gmail.com</a></li>
 </ul>
 </p>
 
