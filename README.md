@@ -1,4 +1,4 @@
-<h1 align="left" style="font-size: 16px;">Hi there 👋, I'm Gamze Sezgin</h1>
+<h1 align="left" style="font-size: 14;">Hi there 👋, I'm Gamze Sezgin</h1>
 
 <h3 align="left">About Me</h3>
 <p align="left">
