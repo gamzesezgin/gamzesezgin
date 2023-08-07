@@ -1,8 +1,5 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif"  />
-</div>
+<h1 align="left">Hi there 👋, I'm Gamze Sezgin</h1>
 
-###
 
 <div align="center">
     <a href= www.linkedin.com/in/gamze-sezgin-9b497922a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
@@ -17,9 +14,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 </div>
 
-###
-
-<h1 align="center">Hi there 👋, I'm Gamze Sezgin</h1>
 
 ###
 
@@ -28,9 +22,9 @@
 ###
 
 <p align="left">
-🔭 I’m currently working on Web Development
-🌱 I’m currently learning HTML, Css, Bootstrap
-📫 How to reach me: gamzesezgin001@gmail.com
+<ul>🔭 I’m currently working on Web Development</ul>
+<ul>🌱 I’m currently learning HTML, Css, Bootstrap</ul>
+<ul>📫 How to reach me: gamzesezgin001@gmail.com</ul>
 </p>
 
 
@@ -70,12 +64,6 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 ![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=gamzesezgin&theme=light)
