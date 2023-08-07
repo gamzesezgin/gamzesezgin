@@ -1,18 +1,16 @@
-<h1 align="left">Hi there 👋, I'm Gamze Sezgin</h1>
+<h1 align="center">Hi there 👋, I'm Gamze Sezgin</h1>
 
+<div align="center">
+    <a href= https://github.com/gamzesezgin><img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/></a>
+  </div>
 
+<h3 align="left">Connect with me</h3>
 <div align="center">
     <a href= www.linkedin.com/in/gamze-sezgin-9b497922a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
     <a href= https://www.instagram.com/gamze_sezgnn/><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
-    <a href="mailto:gamzesezgin001@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
     <a href="https://discord.com/users/gamzesezgin"></a><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 
 ###
@@ -22,27 +20,16 @@
 ###
 
 <p align="left">
-<ul>🔭 I’m currently working on Web Development</ul>
-<ul>🌱 I’m currently learning HTML, Css, Bootstrap</ul>
-<ul>📫 How to reach me: gamzesezgin001@gmail.com</ul>
+<ul>
+<li>🔭 I’m currently working on Web Development</li>
+<li>🌱 I’m currently learning HTML, Css, Bootstrap</li>
+<li>📫 How to reach me: gamzesezgin001@gmail.com</li>
+</ul>
 </p>
-
-
-  ###
-  
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/gsezgin/count.svg?"  />
-  </div>
-  
-  ###
-  
-
-  
-  ###
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Language and tools</h3>
 
 ###
 
