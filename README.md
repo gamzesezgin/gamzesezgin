@@ -3,7 +3,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
 <ul>
-<li>🔭 I’m currently working on Web Development</li>
+<li>🔭 I’m currently working on Web Development</li> 
 <li>🌱 I’m currently learning HTML, Css, Bootstrap</li>
 <li>📫 How to reach me: <a href="mailto:gamzesezgin001@gmail.com">gamzesezgin001@gmail.com</a></li>
 </ul>
