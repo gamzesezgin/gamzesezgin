@@ -1,11 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Gamze Sezgin</h1>
 
-<div align="center">
-    <a href= https://github.com/gamzesezgin><img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/></a>
-  </div>
+<h3 align="left">About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
-###
 <p align="left">
 <ul>
 <li>🔭 I’m currently working on Web Development</li>
