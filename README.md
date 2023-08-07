@@ -7,7 +7,7 @@
 <li>🌱 I’m currently learning HTML, Css, Bootstrap</li>
 <a href="mailto:gamzesezgin001@gmail.com">gamzesezgin001@gmail.com</a></li>
 </ul>
-</p>
+</p> 
 
 <h3 align="left">Connect with me</h3>
 <div align="left">
